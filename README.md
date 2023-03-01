@@ -23,11 +23,17 @@ Drag and drop tasks to rearrange their order.
 
 Mark completed by double clicking on icon next to the task.
 
+You can also prioritize task from high to low.
+
 # Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
 Fork this repository
+
 Create a new branch: git checkout -b my-new-feature
+
 Make your changes and commit them: git commit -am 'Add some feature'
+
 Push to the branch: git push origin my-new-feature
+
 Submit a pull request
