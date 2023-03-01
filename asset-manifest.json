@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/draganddroptodo/static/js/main.dce06712.js",
+    "index.html": "/draganddroptodo/index.html",
+    "main.dce06712.js.map": "/draganddroptodo/static/js/main.dce06712.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dce06712.js"
+  ]
+}
