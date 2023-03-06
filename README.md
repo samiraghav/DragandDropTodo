@@ -1,8 +1,6 @@
 # Drag and Drop To-Do List
 This is a simple to-do list app built using React.js and Styled Components. It allows you to create, edit, and delete tasks, as well as drag and drop them to rearrange their order.
 
-Site is live at : https://samiraghav.github.io/draganddroptodo/
-
 # Installation
 
  Clone this repository: git clone https://github.com/samiraghav/draganddroptodo.git
